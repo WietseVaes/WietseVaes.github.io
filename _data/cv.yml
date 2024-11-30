@@ -12,54 +12,47 @@
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: University of Washington, Seattle, USA
+      year: 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Advised under Thomas Trogdon & Heather Wilber
+    - title: Masters'
+      institution: University of Washington, Seattle, USA
+      year: 2022
       description:
-        - Description 1.
-        - Description 2.
+        - M.S. in Applied & Computational Mathematics
+        - Thesis: Conservative discontinuous Galerkin methods for the kinetic Fokker-Planck equation
+    - title: Bachelors
+      institution: Universiteit Hasselt, Diepenbeek, Belgium
+      year: 2019
+      description:
+        - B.S. in Mathematics, Computational Mathematics
+        - Thesis: Finite element analysis of a coupled Darcy-convection-diffusion system
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Teaching assistant
+      institution: University of Washington, Seattle, USA
+      year: 2022 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - MATH 124: Host office hours, quiz & worksheet sections and grade for 60 students
+        - AMATH 353: Host office hours and grade for 70 students
+    - title: Grader
+      institution: University of Washington, Seattle, USA
+      year: 2023
       description:
-        - Description 1.
-        - Description 2.
+        - AMATH 301: Host lab hours & review session and grade for 200 students
+        - AMATH 353: Grade homework for 60 students
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+    - title: Mathematical Problem Liaison
+      institution: Universiteit Hasselt, Diepenbeek, Belgium & University of Johannesburg, Johannesburg, South Africa
+      year: 2021 - 2023
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Calculus Teacher
+      institution: Universiteit Hasselt, Diepenbeek, Belgium
+      year: 2020 - 2023
+      description: Instruct multiple one week mathematics courses each September for 30 incoming STEM students each
 
 - title: Open Source Projects
   type: time_table
@@ -71,22 +64,22 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2022
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+        - Honorary student, Universiteit Hasselt, Diepenbeek, Belgium
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Numerical Methods focussed on partial differential equations
+      items:
+        - Classical methods such as finite difference, volume and element methods along with spectral methods.
+        - Quadrature methods
+    - title: Partial differential equations 
       items:
         - Description 1.
         - Description 2.
-    - title: Topic 2.
+    - title: Partial differential equations 
       items:
         - Description 1.
         - Description 2.
@@ -94,4 +87,4 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Biking, Baking
