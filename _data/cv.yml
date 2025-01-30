@@ -75,14 +75,7 @@
       items:
         - Classical methods such as finite difference, volume and element methods along with spectral methods.
         - Quadrature methods
-    - title: Partial differential equations 
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Partial differential equations 
-      items:
-        - Description 1.
-        - Description 2.
+        - Spectral methods
 
 - title: Other Interests
   type: list
