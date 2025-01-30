@@ -2,7 +2,7 @@
 layout: page
 permalink: /mentoring/
 title: Mentoring
-description: People I have academically mentored.
+description: People I have academically mentored
 nav: true
 nav_order: 6
 ---

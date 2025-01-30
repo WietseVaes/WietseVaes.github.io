@@ -5,7 +5,7 @@ title: CV
 nav: true
 nav_order: 5
 cv_pdf: CV_Wietse_Vaes.pdf
-description: My Curriculum Vitae can be downloaded through the icon above.
+description: My Curriculum Vitae can be downloaded through the icon above
 toc:
   sidebar: left
 ---
